@@ -28,7 +28,7 @@ Comment configurer cette application : via le panneau d’administration.
 ## Documentation
 
  * Documentation officielle : https://thelounge.chat/docs
- * Documentation YunoHost : https://yunohost.org/#/app_thelounge_fr
+ * Documentation YunoHost : https://yunohost.org/fr/app_thelounge
 
 ## Caractéristiques spécifiques YunoHost
 
@@ -39,8 +39,8 @@ Comment configurer cette application : via le panneau d’administration.
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/thelounge%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/thelounge/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/thelounge%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/thelounge/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/thelounge.svg)](https://ci-apps.yunohost.org/ci/apps/thelounge/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/thelounge.svg)](https://ci-apps-arm.yunohost.org/ci/apps/thelounge/)
 
 ## Liens
 
