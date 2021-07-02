@@ -173,9 +173,9 @@ module.exports = {
 	//   to correctly proxy the uploads URLs back to The Lounge.
 	//   This value is set to `null` by default.
 	fileUpload: {
-		enable: false,
+		enable: true,
 		maxFileSize: 10240,
-		baseUrl: null,
+		baseUrl: "https://__DOMAIN__PATH__/folder/",
 	},
 
 	// ### `transports`
