@@ -78,9 +78,9 @@ module.exports = {
 	// The value of `enable` is set to `false` to disable HTTPS by default, in
 	// which case the other two string settings are ignored.
 	https: {
-		enable: false,
-		key: "",
-		certificate: "",
+		enable: true,
+		key: "/etc/yunohost/certs/__DOMAIN__/key.pem",
+		certificate: "/etc/yunohost/certs/__DOMAIN__/crt.pem",
 		ca: "",
 	},
 
